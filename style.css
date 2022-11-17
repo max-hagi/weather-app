@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #222;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.card {
+    background: lightgray;
+    width: 400px;
+    border-radius: 30px;
+    padding: 2em;
+    margin: 1em;
+
+}
+
+.temp {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
